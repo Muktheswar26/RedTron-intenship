@@ -1,0 +1,12 @@
+{
+    "student_details":[{
+        "student_name":"muktheswar",
+        "email":"muktheswar26@gmail.com",
+        "phnno":"111-222-3333"
+    },{
+        "student_name":"muku",
+        "email":"1by19is035@bmsit.in",
+        "phnno":"333-444-5555"
+    }
+]
+}
